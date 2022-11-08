@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+  background-color: #A5F1E9;
+  margin: 0px;
+  align-items: center;
+}
+h1{
+  font-family: Sacramento;
+  font-size: 90px;
+}
+p{
+font-family: sans-serif;
+}
+.pro{
+  text-align: center;
+  font-size: 30px;
+}
+.page1{
+  /* background-color: #DFD3C3; */
+  color: #21E1E1;
+  height: 192px;
+  width: 500px;
+  padding: 10px;
+  position: relative;
+  left: 500px;
+  top: 45px;
+  padding-left: 37px;
+  /* border-style: solid; */
+  /* border-radius: 0 */
+}
+.mountain{
+  position: relative;
+  left: 283px;
+  bottom: 0px;
+  top: 68px;
+}
+.cloud1{
+  position: relative;
+  left: 470px;
+  top: 350px;
+}
+.cloud2{
+  position: relative;
+  left: 1100px;
+  bottom: 500px;
+}
+.profilepic{
+  border-style: solid;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  position: absolute;
+  left: 575px;
+  top: 900px;
+}
+.hr1{
+  position: relative;
+  top: 175px;
+  color: grey;
+  border-style: dotted;
+  border-width: thick;
+  border-radius: 80%;
+}
+.intro{
+  text-align: center;
+  position: relative;
+  top: 600px;
+  left: 2px;
+  color: #66BFBF;
+}
+.intro_h{
+  font-size: 50px;
+  color: #21E1E1;
+}
+.intro_p{
+  color: black;
+  font-size: 120%;
+}
+.hr2{
+  position: relative;
+  top: 600px;
+  color: grey;
+  border-style: dotted;
+  border-width: thick;
+  border-radius: 80%;
+}
+.skills{
+  position: relative;
+  left: 716px;
+  top: 600px;
+  color: black;
+  height: 410px;
+  width: 300px;
+}
+.skills_h{
+  color: #21E1E1;
+}
+.skillcircle{
+  position: relative;
+  right: 120px;
+  top: 10px;
+  height: 350px;
+  width: 350px;
+  background-color: grey;
+  border-style: solid;
+  border-radius: 100%;
+}
+.gif1{
+  position: relative;
+  left: 47px;
+  top: 75px;
+  height: 210px;
+  width: 250px;
+  border-style: solid;
+}
+.skillsdes{
+  text-align: center;
+  position: relative;
+  left: 2px;
+  top: 150px;
+  color: #21E1E1;
+}
+.skillsdes2{
+  position: relative;
+  right: 200px;
+  top: 150px;
+  text-align: center;
+  height: 85px;
+  width: 800px;
+  color: black;
+}
+.hr3{
+  position: relative;
+  top: 825px;
+  right: 0px;
+  color: grey;
+  border-style: dotted;
+  border-width: thick;
+  border-radius: 80%;
+}
+.skills{
+  font-size: 150%;
+}
+.final{
+  color: #21E1E1;
+  position: absolute;
+  left: 465px;
+  text-align: center;
+  width: 600px;
+  height: 145px;
+  margin-top: 864px;
+  font-size: 150%;
+}
+.finalp1{
+  position: absolute;
+  left: 300px;
+  text-align: center;
+  width: 1020px;
+  height: 35px;
+  margin-top: 1025px;
+  font-size: 125%;
+}
+.finalp2{
+  position: absolute;
+  top: 1278px;
+  left: 0px;
+  text-align: center;
+  width: 1540px;
+  height: 70px;
+  margin-top: 1100px;
+  font-size: 125%;
+  background-color: grey;
+  padding-bottom: 10px;
+  padding-bottom: 37px;
+}
+.finalp3{
+  position: absolute;
+  left: 660px;
+  text-align: center;
+  width: 95px;
+  height: 40px;
+  margin-top: 1140px;
+  font-size: 125%;
+}
+.finalp4{
+  position: absolute;
+  left: 820px;
+  text-align: center;
+  width: 70px;
+  height: 30px;
+  margin-top: 1140px;
+  font-size: 125%;
+}
+.button{
+  background-color: blue;
+  height: 50px;
+  width: 100px;
+}
